@@ -61,7 +61,7 @@ export default function Hero() {
             <ScrollReveal delay={450}>
               <div className="flex flex-col sm:flex-row items-stretch sm:items-center space-y-4 sm:space-y-0 sm:space-x-4 pt-4">
                 <a
-                  href="https://wa.me/5538991110158?text=Olá!%20Gostaria%20de%20solicitar%20uma%20apresentação%20técnica%20da%20Ekológica%20Engenharia."
+                  href="https://wa.me/5538988360260?text=Olá!%20Gostaria%20de%20solicitar%20uma%20apresentação%20técnica%20da%20Ekológica%20Engenharia."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex"

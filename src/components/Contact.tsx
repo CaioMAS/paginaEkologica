@@ -108,8 +108,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-xs uppercase font-mono tracking-wider font-semibold text-slate-800">Telefone Comercial</h4>
-                    <a href="tel:3832160260" className="text-sm text-slate-600 hover:text-primary transition-colors mt-1 inline-block font-medium">
-                      (38) 3216-0260
+                    <a href="tel:38988360260" className="text-sm text-slate-600 hover:text-primary transition-colors mt-1 inline-block font-medium">
+                      (38) 98836-0260
                     </a>
                   </div>
                 </div>
@@ -151,7 +151,7 @@ export default function Contact() {
             <ScrollReveal delay={450}>
               <div className="pt-4">
                 <a
-                  href="https://wa.me/5538991110158?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20técnico%20com%20a%20Ekológica%20Engenharia."
+                  href="https://wa.me/5538988360260?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20técnico%20com%20a%20Ekológica%20Engenharia."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center space-x-3 w-full sm:w-auto bg-[#25D366] hover:bg-[#20BA5A] text-white px-5 py-3 sm:px-8 sm:py-4 rounded-xl font-display font-bold shadow-md shadow-[#25D366]/10 transition-all duration-300 hover:shadow-[#25D366]/20 hover:-translate-y-0.5 cursor-pointer"
